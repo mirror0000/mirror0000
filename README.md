@@ -8,7 +8,7 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
   <br><br>
   <a href="https://dev.to/mirror0000"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username miroslav-pesic" /></a>
-  <a href="https://www.linkedin.com/in/miroslav-pesic-b255a92a9/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username miroslav-pesic" /></a>
+  <a href="https://www.linkedin.com/in/milos-filipovic-22493a2b0/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username mirror" /></a>
   <a href="mailto:poxii2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of poxii2001@gmail.com" /></a>
   <a href="https://peerlist.io/mirror"><img src="https://img.shields.io/badge/peerlist-d5d5d5?style=for-the-badge&logo=peerlist&logoColor=0A0209" alt="profile of Peerlist with username miroslav-pesic" ></a>
 </div>
